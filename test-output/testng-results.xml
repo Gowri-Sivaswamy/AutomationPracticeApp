@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-24T23:52:13 IST" name="Suite" finished-at="2026-05-24T23:52:25 IST" duration-ms="12122">
+    <groups>
+    </groups>
+    <test started-at="2026-05-24T23:52:13 IST" name="Test" finished-at="2026-05-24T23:52:25 IST" duration-ms="12122">
+      <class name="testCases_AP.TC_002_VerifingNewUserSignup">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases_AP.TC_002_VerifingNewUserSignup@350aac89]" started-at="2026-05-24T23:52:19 IST" name="setup" finished-at="2026-05-24T23:52:23 IST" duration-ms="4596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifingNewUserSignUpPage()[pri:0, instance:testCases_AP.TC_002_VerifingNewUserSignup@350aac89]" started-at="2026-05-24T23:52:23 IST" name="verifingNewUserSignUpPage" finished-at="2026-05-24T23:52:25 IST" duration-ms="1244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifingNewUserSignUpPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases_AP.TC_002_VerifingNewUserSignup@350aac89]" started-at="2026-05-24T23:52:25 IST" name="teardown" finished-at="2026-05-24T23:52:25 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases_AP.TC_002_VerifingNewUserSignup -->
+      <class name="testCases_AP.TC_001_HomepageVisible">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases_AP.TC_001_HomepageVisible@cb0755b]" started-at="2026-05-24T23:52:13 IST" name="setup" finished-at="2026-05-24T23:52:19 IST" duration-ms="5793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homepageVisible()[pri:0, instance:testCases_AP.TC_001_HomepageVisible@cb0755b]" started-at="2026-05-24T23:52:19 IST" name="homepageVisible" finished-at="2026-05-24T23:52:19 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageVisible -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases_AP.TC_001_HomepageVisible@cb0755b]" started-at="2026-05-24T23:52:19 IST" name="teardown" finished-at="2026-05-24T23:52:19 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases_AP.TC_001_HomepageVisible -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
